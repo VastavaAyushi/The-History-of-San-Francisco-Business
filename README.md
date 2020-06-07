@@ -1,0 +1,1 @@
+• Quantitatively evaluated and measured the effect of various data characteristics relating to business processes, revenue, finance, and their interdependence using Python (numpy, pandas, ggplot, seaborn, graphviz, regex, matplotlib, folium, sklearn, pydotplus, IPython)
